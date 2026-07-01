@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Murtaza Ansari, a Software Engineer specializing in scalable backend architectures and full-stack development. I build high-performance applications using Node.js, Golang, React, and Flutter. My technical focus extends to defensive cybersecurity and machine learning, highlighted by my work engineering real-time, deep learning-based Intrusion Detection Systems. I am passionate about rigorous system design, clean code, and solving complex architectural problems from first principles.
+Hi, I'm Murtaza, a Software Engineer specializing in scalable backend architectures and full-stack development. I build high-performance applications using Node.js, Golang, React, and Flutter. My technical focus extends to defensive cybersecurity and machine learning, highlighted by my work engineering real-time, deep learning-based Intrusion Detection Systems. I am passionate about rigorous system design, clean code, and solving complex architectural problems from first principles.
 
 
 ## 🌐 Socials:
